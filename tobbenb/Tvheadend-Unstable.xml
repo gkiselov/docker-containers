@@ -15,8 +15,8 @@
   </Description>
   <Support>http://lime-technology.com/forum/index.php?topic=37671.0</Support>
   <Project>https://tvheadend.org/</Project>
-  <Registry>https://registry.hub.docker.com/u/tobbenb/tvheadend-unstable/</Registry>
-  <Repository>tobbenb/tvheadend-unstable</Repository>
+  <Registry>https://hub.docker.com/r/pscherrer80/tvheadend-unstable/</Registry>
+  <Repository>pscherrer80/tvheadend-unstable</Repository>
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
   <Environment/>
